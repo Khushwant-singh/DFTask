@@ -1,9 +1,0 @@
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\bin\Debug\TruckPlannerLib.dll
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\bin\Debug\TruckPlannerLib.pdb
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\obj\Debug\TruckPlannerLib.csproj.AssemblyReference.cache
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\obj\Debug\TruckPlannerLib.csproj.CoreCompileInputs.cache
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\obj\Debug\TruckPlannerLib.csproj.CopyComplete
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\obj\Debug\TruckPlannerLib.dll
-C:\Users\Khushwant Singh\OneDrive\Documents\Projects\DFDS\TruckPlannerLib\obj\Debug\TruckPlannerLib.pdb
